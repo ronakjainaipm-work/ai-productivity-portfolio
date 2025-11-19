@@ -70,8 +70,10 @@ User Query → Retriever → Vector DB → LLM → Grounded Answer
 - Architecture diagram  
 - Evaluation report  
 - Demo videos  
-- Notebooks + scripts  
-
+- Notebooks + scripts
+ ``` 
+### ▶️ How to Run
+Instructions coming as the project evolves.
 ---
 
 # 📌 PROJECT 2 — Agentic Workflow Automation System  
@@ -121,6 +123,10 @@ User Request → Planner Agent → Tool Call → Observation → Executor Agent 
 - Logs & evaluation tests  
 
 ---
+### ▶️ How to Run
+Instructions coming as the project evolves.
+---
+
 
 # 📚 Prompt Library  
 ### *25 Expert-Designed AI Prompts (System, Generation, Decision, Agent, RAG, Jira)*
