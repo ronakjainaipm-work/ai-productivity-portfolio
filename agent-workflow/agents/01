@@ -1,1 +1,6 @@
+Planner + executor logic:
 
+planner.py
+executor.py
+
+This folder proves you understand agent orchestration.
