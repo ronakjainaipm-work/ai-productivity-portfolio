@@ -1,1 +1,22 @@
+This is very important for agent interviews.
 
+Store:
+
+Tool input schemas
+
+Tool output schemas
+
+JSON format definitions
+
+Function-calling examples
+
+Example file:
+
+tool_calls.json
+
+{
+  "update_ticket": {
+    "inputs": ["ticket_id", "status", "comment"],
+    "outputs": ["success", "timestamp"]
+  }
+}
