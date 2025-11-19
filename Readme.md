@@ -71,12 +71,13 @@ User Query → Retriever → Vector DB → LLM → Grounded Answer
 - Evaluation report  
 - Demo videos  
 - Notebooks + scripts
- ``` 
+
 ### ▶️ How to Run
 Instructions coming as the project evolves.
+
 ---
 
-# 📌 PROJECT 2 — Agentic Workflow Automation System  
+# 📌 PROJECT 2 -  Agentic Workflow Automation System  
 ### *AI Agent that Automates Jira, Emails, Status Updates & Planning Tasks*
 
 This project builds a **multi-tool, agentic automation system** for productivity operations.
