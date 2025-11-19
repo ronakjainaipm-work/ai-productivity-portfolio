@@ -1,1 +1,3 @@
-
+Your agent pipeline diagram (I’ll help draw this).
+Example:
+User Input → Planner Agent → Jira Tool → Email Tool → Status Update → Summary
