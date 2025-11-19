@@ -1,1 +1,9 @@
+Simple Python files representing your tools.
 
+Examples:
+
+jira_api.py
+email_sender.py
+db_fetcher.py
+
+You don’t need full APIs; just stubs that show structure.
