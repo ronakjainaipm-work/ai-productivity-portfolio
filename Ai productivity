@@ -1,0 +1,43 @@
+ai-productivity-portfolio/
+│
+├── README.md
+│
+├── rag-assistant/
+│   ├── README.md
+│   ├── architecture.png
+│   ├── data/
+│   ├── src/
+│   ├── evaluation/
+│   ├── demos/
+│
+├── agent-workflow/
+│   ├── README.md
+│   ├── flow.png
+│   ├── tools/
+│   ├── agents/
+│   ├── memory/
+│   ├── evaluation/
+│   ├── schemas/   <-- NEW
+│   │   ├── tool_calls.json
+│   │   ├── entity_extraction.json
+│   ├── demos/     <-- NEW
+│
+├── prompt-library/
+│   ├── prompts.md
+│
+├── playbook/       <-- NEW
+│   ├── rag-principles.md
+│   ├── agent-patterns.md
+│   ├── evaluation-methods.md
+│
+├── docs/
+│   ├── prd-rag-assistant.md
+│   ├── prd-agent-workflow.md
+│   ├── sprint-plan-template.md
+│   ├── safety-checklist.md   <-- NEW
+│   ├── architecture-guide.md <-- NEW
+│
+└── assets/
+    ├── diagrams/
+    ├── screenshots/
+    ├── videos/
