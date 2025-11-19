@@ -1,1 +1,6 @@
+# 🛠️ Setup 
+Clone the repo:
+git clone https://github.com/<ronakjainaipm-work>/ai-productivity-portfolio
 
+Install dependencies (when code is added):
+pip install -r requirements.txt
