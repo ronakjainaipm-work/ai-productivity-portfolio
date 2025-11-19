@@ -17,3 +17,23 @@ Links to PRDs
 Installation steps (optional)
 
 I will write this for you once the projects are in place.
+
+
+
+Your GitHub must show:
+
+⬆️ Growth
+
+(Add updates weekly)
+
+📦 Deliverables
+
+(PRDs, diagrams, prompts, eval reports)
+
+🎥 Demos
+
+(Video is 10x more powerful than code)
+
+🧠 Clarity & Structure
+
+(Your repo is your skill showcase)
