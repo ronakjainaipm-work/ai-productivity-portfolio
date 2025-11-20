@@ -1,11 +1,40 @@
-This explains the project:
+# 📘 RAG Knowledge Assistant
 
-What it does
+A retrieval-augmented AI assistant designed to answer questions based on internal documents (SOPs, PRDs, sprint notes, Jira exports, etc.).
 
-How it works
+---
 
-Steps involved (chunking → embedding → retrieval → generation)
+## 🧠 Architecture (Placeholder)
 
-Screenshots
+![RAG Architecture](architecture.png)
 
-Demo video link
+> This diagram will be updated after finalizing the PRD and architecture template.
+
+---
+
+## 📂 Project Structure
+```
+rag-assistant/
+│── README.md
+│── architecture.png (placeholder)
+│── data/
+│── src/
+│── notebooks/
+│── evaluation/
+└── demos/
+```
+
+---
+
+## 📄 Documents
+- PRD — Coming soon (`docs/prd-rag-assistant.md`)
+- Architecture — Coming soon (`docs/rag-architecture-template.md`)
+- Evaluation Plan — Coming soon (`docs/evaluation-template.md`)
+
+---
+
+## 📌 Next Steps (Day 02)
+- Fill PRD
+- Add chunking + embedding logic
+- Add retrieval pipeline notebook
+- Add evaluation folder content
