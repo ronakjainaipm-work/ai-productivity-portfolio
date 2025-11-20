@@ -1,13 +1,42 @@
-Explain the agent system:
+# 🤖 Agent Workflow Automation System
 
-What tools it uses
+A multi-tool agent designed to automate Jira updates, draft emails, generate status summaries, and orchestrate sprint workflows.
 
-What the agent does
+---
 
-Workflow steps
+## ⚙️ Agent Flow Diagram (Placeholder)
 
-Outputs
+![Agent Workflow Diagram](flow.png)
 
-Screenshots
+> This diagram will be replaced with the finalized agent pipeline after PRD completion.
 
-Demo link
+---
+
+## 📂 Project Structure
+```
+agent-workflow/
+│── README.md
+│── flow.png (placeholder)
+│── tools/
+│── agents/
+│── memory/
+│── schemas/
+│── evaluation/
+└── demos/
+```
+
+---
+
+## 📄 Documents
+- PRD — Coming soon (`docs/prd-agent-workflow.md`)
+- Architecture — Coming soon (`docs/agent-architecture-template.md`)
+- Safety — Coming soon (`docs/safety-checklist.md`)
+- Evaluation — Coming soon (`docs/evaluation-template.md`)
+
+---
+
+## 📌 Next Steps (Day 02)
+- Fill PRD
+- Add tool schemas
+- Add planner/executor structure
+- Add sample tool stubs
